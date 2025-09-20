@@ -416,7 +416,7 @@ This is the future of web development - where humans define intent through data 
 
 ## Support
 
-- GitHub: [github.com/dbbasic/pystructui](https://github.com/dbbasic/pystructui)
+- GitHub: [github.com/askrobots/PyStructUI](https://github.com/askrobots/PyStructUI)
 - Documentation: [pystructui.readthedocs.io](https://pystructui.readthedocs.io)
 - PyPI: [pypi.org/project/pystructui](https://pypi.org/project/pystructui)
 

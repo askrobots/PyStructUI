@@ -15,7 +15,7 @@ setup(
     description="Convert data structures to HTML for any Python web framework",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/dbbasic/pystructui",
+    url="https://github.com/askrobots/PyStructUI",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
